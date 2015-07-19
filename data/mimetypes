@@ -1,0 +1,8 @@
+###############################################################################
+# (C) 2007 EVO Sistemas Libres <central@evosistemas.com>
+# mimetypes
+# Tipos mime extra para reconocer contenido de distintos ficheros de código
+###############################################################################
+
+# Archivo glade
+application/xml					glade gladep

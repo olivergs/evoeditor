@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?> <!--*- mode: xml -*-->
+<!DOCTYPE glade-interface SYSTEM "http://glade.gnome.org/glade-2.0.dtd">
+
+<glade-interface>
+
+<widget class="GtkAboutDialog" id="winConfig">
+  <property name="border_width">5</property>
+  <property name="destroy_with_parent">False</property>
+  <property name="name" translatable="yes">Python Terminal</property>
+  <property name="copyright" translatable="yes">EVO Sistemas Libres</property>
+  <property name="comments" translatable="yes">Plugin de terminal de comandos para EVOEditor</property>
+  <property name="wrap_license">False</property>
+  <property name="website">http://www.evosistemas.com</property>
+  <property name="website_label" translatable="yes">EVO Sistemas Libres</property>
+  <property name="authors">Oliver Gutiérrez Suárez &lt;central@evosistemas.com&gt;</property>
+  <property name="translator_credits" translatable="yes" comments="TRANSLATORS: Replace this string with your names, one name per line.">translator-credits</property>
+</widget>
+
+</glade-interface>

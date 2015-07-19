@@ -1,0 +1,8 @@
+#!/bin/bash
+
+#PWD=`pwd`
+export LD_LIBRARY_PATH=/usr/lib/firefox
+#cd /usr/local/EVOEditor
+python EVOEditor.py $*
+#cd $PWD
+
